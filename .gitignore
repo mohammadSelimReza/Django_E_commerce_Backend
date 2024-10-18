@@ -1,0 +1,8 @@
+#.gitignore: 
+venv/ 
+.pytest_cache 
+**pycache/ 
+db.sqlite3 
+.env 
+.coverage 
+.vscode
